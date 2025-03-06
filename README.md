@@ -146,7 +146,7 @@ The API uses a centralized error-handling middleware to provide consistent error
 
 ## Testing 
 
-Run the tests using:
+1. Run the tests using:
     ```bash
     go test ./...
 
