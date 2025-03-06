@@ -1,0 +1,117 @@
+{
+    "SjyX": {
+        "id": "SjyX",
+        "destination_id": 5432,
+        "hotel_name": "InterContinental Singapore Robertson Quay",
+        "location": {
+            "address": "1 Nanson Road",
+            "city": "Singapore",
+            "country": "SG"
+        },
+        "description": [
+            "Enjoy sophisticated waterfront living at the new InterContinental® Singapore Robertson Quay."
+        ],
+        "amenities": {
+            "general": [
+                "Pool",
+                "WiFi",
+                "Aircon",
+                "BusinessCenter",
+                "BathTub",
+                "Breakfast",
+                "DryCleaning",
+                "Bar"
+            ]
+        }
+    },
+    "f8c9": {
+        "id": "f8c9",
+        "destination_id": 1122,
+        "hotel_name": "Hilton Tokyo Shinjuku",
+        "location": {
+            "lat": 35.6926,
+            "lng": 139.690965,
+            "address": "160-0023, SHINJUKU-KU, 6-6-2 NISHI-SHINJUKU, JAPAN",
+            "city": "Tokyo",
+            "country": "JP"
+        },
+        "description": [
+            "Hilton Tokyo is located in Shinjuku, the heart of Tokyo's business, shopping and entertainment district, and is an ideal place to experience modern Japan. A complimentary shuttle operates between the hotel and Shinjuku station and the Tokyo Metro subway is connected to the hotel. Relax in one of the modern Japanese-style rooms and admire stunning city views. The hotel offers WiFi and internet access throughout all rooms and public space."
+        ],
+        "amenities": {
+            "general": [
+                "Pool",
+                "WiFi",
+                "BusinessCenter",
+                "DryCleaning",
+                "Breakfast",
+                "Bar",
+                "BathTub"
+            ]
+        },
+        "images": {
+            "amenities": [
+                {
+                    "link": "https://d2ey9sqrvkqdfs.cloudfront.net/YwAr/i57_m.jpg",
+                    "description": "Bar"
+                }
+            ],
+            "rooms": [
+                {
+                    "link": "https://d2ey9sqrvkqdfs.cloudfront.net/YwAr/i10_m.jpg",
+                    "description": "Suite"
+                },
+                {
+                    "link": "https://d2ey9sqrvkqdfs.cloudfront.net/YwAr/i11_m.jpg",
+                    "description": "Suite - Living room"
+                }
+            ]
+        }
+    },
+    "iJhz": {
+        "id": "iJhz",
+        "destination_id": 5432,
+        "hotel_name": "Beach Villas Singapore",
+        "location": {
+            "address": "8 Sentosa Gateway, Beach Villas, 098269",
+            "country": "Singapore"
+        },
+        "amenities": {
+            "general": [
+                "outdoor pool",
+                "indoor pool",
+                "business center",
+                "childcare"
+            ],
+            "room": [
+                "tv",
+                "coffee machine",
+                "kettle",
+                "hair dryer",
+                "iron"
+            ]
+        },
+        "images": {
+            "rooms": [
+                {
+                    "link": "https://d2ey9sqrvkqdfs.cloudfront.net/0qZF/2.jpg",
+                    "description": "Double room"
+                },
+                {
+                    "link": "https://d2ey9sqrvkqdfs.cloudfront.net/0qZF/3.jpg",
+                    "description": "Double room"
+                }
+            ],
+            "site": [
+                {
+                    "link": "https://d2ey9sqrvkqdfs.cloudfront.net/0qZF/1.jpg",
+                    "description": "Front"
+                }
+            ]
+        },
+        "booking_condition": [
+            "Pets are not allowed.",
+            "WiFi is available in all areas and is free of charge."
+        ]
+    }
+}
